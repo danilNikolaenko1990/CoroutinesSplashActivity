@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="top_background">#03A9F4</color>
+    <color name="bottom_background">#3B4BA0</color>
+    <color name="favorite_background">#E91E63</color>
+    <color name="gray">#4F4F4F</color>
+    <color name="russian_word_color">#818181</color>
+    <color name="word_cell_border">#F4F4F4</color>
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#5685C1</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="grayCustom">#646565</color>
+    <color name="grey">#565858</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FB0000</color>
+    <color name="grayWhitest">#AFAFAF</color>
+    <color name="unselectedLabel">#161C3C</color>
+
+</resources>

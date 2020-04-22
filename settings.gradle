@@ -1,0 +1,2 @@
+rootProject.name='Progress bar sample'
+include ':app'

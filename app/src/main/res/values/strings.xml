@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Progress bar</string>
+    <string name="loading_text">Some crazy computation</string>
+    <string name="you_have_arrived">you have arrived</string>
+</resources>
